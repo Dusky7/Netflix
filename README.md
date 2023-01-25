@@ -4,6 +4,8 @@ Landing Page da Netflix, aplicação feita no Evento Programação Do Zero, do R
 <br>
 Verdadeira Imersão com aulas sobre ser um programador.
 
+Link:https://lnkd.in/dMgVbDsn
+
 (Não está inteira e nem idêntica a original, mas o aprendizado valeu!)
 
 ##
